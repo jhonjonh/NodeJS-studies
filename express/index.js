@@ -1,4 +1,4 @@
-const express = require("express"); //Importando o Express
+const express = require("express"); //Importando o Express (instalado via npm)
 const app = express(); //Iniciando o Express e passando para a const app
 
 // iniciando um servidor Express 
