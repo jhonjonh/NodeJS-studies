@@ -1,5 +1,5 @@
 const express = require("express"); //Importando o Express (instalado via npm)
-const app = express(); //Iniciando o Express e passando para a const app
+const app = express(); //Iniciando o Express como funcao e passando para a const app
 
 // iniciando um servidor Express 
 app.listen(4000, function(erro){
